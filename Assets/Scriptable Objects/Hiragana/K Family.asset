@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f9c64c60fbbbf54aa2de68cf88e8147, type: 3}
+  m_Name: K Family
+  m_EditorClassIdentifier: 
+  arrayCards:
+  - {fileID: 11400000, guid: 64f1e3f58334cf6439caf86ff3d0db3d, type: 2}
+  - {fileID: 11400000, guid: 9716b4dfd8ed9a040b1dd6e139f4c8e5, type: 2}
+  - {fileID: 11400000, guid: e39c7bad6969da54882bce444f8a26ef, type: 2}
+  - {fileID: 11400000, guid: 153805cba6edf5a4ba8c0f45e05ad217, type: 2}
+  - {fileID: 11400000, guid: 4af4f88245c4e304ea5ea0ed8ed8fb71, type: 2}
